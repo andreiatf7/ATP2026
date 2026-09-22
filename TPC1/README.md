@@ -1,6 +1,7 @@
-  #TPC1: Jogos de Blocos
+  # TPC1: Jogos de Blocos
 
-  ##Autor
+  ## Autor
 
-  - **Nome:**Andreia Teixeira Freitas
-  - **
+  - **Nome:** Andreia Teixeira Freitas
+  - **ID:** A114696
+  - **Foto:**
