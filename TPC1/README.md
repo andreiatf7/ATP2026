@@ -1,4 +1,6 @@
-Título
-Autor: nome, id, foto
-Resumo: lista de parágrafos
-Lista de resultados: links para os ficheiros da resolução
+  #TPC1: Jogos de Blocos
+
+  ##Autor
+
+  - **Nome:**Andreia Teixeira Freitas
+  - **
