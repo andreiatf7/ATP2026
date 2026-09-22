@@ -5,4 +5,4 @@
   - **Nome:** Andreia Teixeira Freitas
   - **ID:** A114696
   - **Foto:**
-  - ![Foto](fotoyme.jpg)
+  - <br> <img src="fotoyme.jpeg" width="15%"/>
