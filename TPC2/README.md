@@ -14,4 +14,4 @@
 
   ## Resultado
 
-  C:\Users\PC1\OneDrive - Universidade do Minho\Ambiente de Trabalho\ATP\TPC\TPC 2\jogo.py
+ jogo.py
