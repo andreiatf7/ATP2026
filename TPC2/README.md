@@ -12,7 +12,8 @@
   Desenvolvi um barco no Blockly Games, utilizei diferentes blocos para programar os movimentos necessários para fazer o desenho. Foi também realizada a resolução do exercício 10 do Maze.
 
   ## Resultado
-  
+
+
 cont_jogo1 = 0
 cont_jogo2 = 0
 menu = 9
