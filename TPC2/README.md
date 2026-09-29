@@ -14,8 +14,9 @@
   
 -----------------------------
   ## Resultado
-https://vscode.dev/github/andreiatf7/ATP2026/blob/main/TPC2
 
+
+```python
 cont_jogo1 = 0
 cont_jogo2 = 0
 menu = 9
