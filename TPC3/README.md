@@ -1,4 +1,4 @@
- # TPC3: Jogo de 
+ # TPC3: Jogo "Corrida para o 100"
 
   ## Autor
 
@@ -8,8 +8,8 @@
 <img width="300" alt="foto yme" src="https://github.com/user-attachments/assets/903c123e-ad62-4d23-b9f4-e107634bc36c" />
 
   ## Resumo do TPC
-  Neste trabalho, desenvolvi um programa em Python para o jogo “Adivinha o Número”. O programa permite jogar em duas modalidades: o computador escolhe um número entre 0 e 100 e o utilizador tenta adivinhar, ou o utilizador escolhe um número e o computador tenta descobri-lo.
-  Durante o jogo, são dadas indicações sobre se o número escolhido é maior ou menor que a tentativa realizada. O programa repete as tentativas até o número ser descoberto e, no final, apresenta o número de tentativas necessárias para chegar à resposta.
+  
+  Neste trabalho, desenvolvi um programa em Python para o jogo “Corrida para o 100”. Neste jogo, o total começa em 0 e o jogador e o computador jogam alternadamente, adicionando um número entre 1 e 10 ao total. O objetivo é atingir exatamente o número 100, sendo vencedor quem conseguir chegar primeiro a esse valor. O programa apresenta duas possibilidades: na primeira, o computador joga primeiro e utiliza uma estratégia que lhe permite garantir a vitória; na segunda, o computador joga em segundo lugar, podendo ganhar ou perder dependendo das jogadas realizadas pelo jogador.
   
 -----------------------------
   ## Resultado
