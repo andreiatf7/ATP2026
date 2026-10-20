@@ -1,7 +1,13 @@
+ # TPC4: Aplicação
+  ## Autor
 
+  - **Nome:** Andreia Teixeira Freitas
+  - **ID:** A114696
+  - **Foto:**
+<img width="300" alt="foto yme" src="https://github.com/user-attachments/assets/903c123e-ad62-4d23-b9f4-e107634bc36c" />
 
-
-
+  ## Resumo do TPC
+  
 
 
 def criarTurma():     
