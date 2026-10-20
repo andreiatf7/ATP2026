@@ -1,4 +1,4 @@
- # TPC4: Aplicação
+ # TPC5: Aplicação_turma
   ## Autor
 
   - **Nome:** Andreia Teixeira Freitas
@@ -6,9 +6,10 @@
   - **Foto:**
 <img width="300" alt="foto yme" src="https://github.com/user-attachments/assets/903c123e-ad62-4d23-b9f4-e107634bc36c" />
 
-  ## Resumo do TPC
+  ## Resumo do TPC:
+  Desenvolvimento de uma aplicação em Python para a gestão de alunos de uma turma. O programa permite criar uma turma, inserir alunos com o respetivo nome, número de identificação e notas dos TPC, projeto e teste, listar todos os alunos e consultar um aluno através do seu ID. Inclui ainda funcionalidades para guardar a turma num ficheiro e carregar uma turma previamente guardada. A aplicação apresenta um menu de opções que volta a aparecer após cada operação, permitindo ao utilizador continuar a interagir com o programa até escolher sair. Por fim, foi utilizada a aplicação para criar uma turma com cinco alunos.
   
-
+```python
 
 def criarTurma():     
     lista = []
